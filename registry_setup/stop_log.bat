@@ -1,1 +1,1 @@
-xperf -stop heapsession
+xperf -stop -stop heapsession -d trace.etl

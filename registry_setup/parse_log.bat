@@ -1,1 +1,1 @@
-xperf -i C:\user.etl
+xperf -i trace.etl -o trace.txt -symbols
