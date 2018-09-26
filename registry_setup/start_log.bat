@@ -1,0 +1,1 @@
+xperf -start heapsession -heap -pids 0
